@@ -18,7 +18,7 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[View Live Project](YOUR_FIREBASE_URL)
+[View Live Project](https://muzammil-calculator.web.app/)
 
 ## Author
 
